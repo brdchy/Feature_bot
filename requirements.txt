@@ -1,0 +1,3 @@
+aiogram
+python-decouple
+aiosqlite
