@@ -18,8 +18,8 @@ This Telegram bot allows for user registration, message broadcasting, and loggin
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/brdchy/Feature_bot
+   cd Feature_bot
    ```
 
 2. Install dependencies:
